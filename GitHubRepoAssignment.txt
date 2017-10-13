@@ -1,0 +1,12 @@
+
+1. Created a master branch on my Desktop.
+
+2. Initialized the branch.
+
+3. Created and added this current file to the master branch.
+
+4. Committed my changed.
+
+5. Added this repository to my github.
+
+6. Added this file to my repository and pushing in to save in online on github.
