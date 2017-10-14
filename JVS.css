@@ -1,17 +1,17 @@
 *{
   margin: 10px;
-  color: black;
+  color: #7FFFD4;
 }
 #wrapper{
   width: 1200px;
   height: 800px;
-  background-color: blue;
-  padding: 10px 10px 10px 10px
+  background-color: #00008B;
+  padding: 10px 10px 10px 10px;
 }
 #heading{
   height: 100px;
   width: 1180px;
-  background-color: red;
+  background-color: #8B0000;
   border-radius: 10px;
 }
 h1{
@@ -22,30 +22,40 @@ h1{
   padding-top: 30px;
 }
 #box1{
-  height: 400px;
-  width: 200px;
+  height: 225px;
+  width: 232px;
   background-color: teal;
-  margin-right: 50px;
   float: left;
   border-radius: 10px;
 }
 #main_content{
   margin: 10px;
   color: blue;
+  padding-left: 15px;
+  line-height: 10px;
+}
+#left_content{
+  font-size: 13px;
+  color: #7FFFD4;
+  margin-top: 5px;
+  line-height: 5px;
+  font-size: 15px;
+  padding-left: 10px;
 }
 #box2{
-  height: 400px;
+  height: 575px;
   width: 850px;
   background-color: black;
   margin-right: 50px;
   float: right;
-  border-radius: 10px;
+  border-radius: 20px
 }
 .clearfix{
   clear: both;
 }
 h2{
   color: silver;
+  padding-top: 15px;
 }
 h4{
   color: silver;
@@ -54,16 +64,24 @@ p{
 color: silver;
 }
 li{
-  text-decoration: underline;
-  color: blue;
+  color: silver;
 }
-#list_items{
+#inside_content{
+  font-size: 15px;
+  display: block;
+  padding-left: 6px;
+}
+u{
   text-decoration: underline;
-  display: inline-block;
+  color: 	#7FFFD4;
 }
 #box3{
   height: 50px;
   width: 1180px;
   background-color: gray;
   border-radius: 10px;
+  margin-top: 30px
+}
+.footer{
+  line-height: 50px;
 }
